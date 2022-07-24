@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Script from 'next/script';
+import Script from "next/script";
 import '../styles/globals.scss';
 import { Layout } from '../components';
 
