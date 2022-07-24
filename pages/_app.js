@@ -11,7 +11,8 @@ function MyApp({ Component, pageProps }) {
         strategy='lazyOnload'
         async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7587426308752562"
-        crossorigin="anonymous" />
+        crossorigin="anonymous"
+      />
       <Layout>
         <Component {...pageProps} />
       </Layout>
